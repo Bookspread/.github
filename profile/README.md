@@ -1,4 +1,4 @@
-[![Bookspread](./assets/Bookspread_Logo.jpg)](https://github.com/bookspread/.github/blob/main/profile/assets/Bookspread_Logo.jpg)
+![Bookspread](https://github.com/bookspread/.github/blob/main/profile/assets/Bookspread_Logo.jpg)
 
 # Bookspread
 
